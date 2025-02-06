@@ -1,2 +1,2 @@
-# algorithmics-template
-Template for algorithmics lab sessions
+# Algorithms Lab.
+Repository for the algorithms class 2024-25
